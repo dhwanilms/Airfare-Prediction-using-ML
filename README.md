@@ -24,7 +24,7 @@ This project is used to predict the fares of airlines using the dataset provided
 
 ### Code
 
-There are two notebook files present in the project, Data_Preprocessing.ipynb and Model_creation.ipynb. The former contains the code for exploratory data analysis along with preprocessing the raw data so that it is suitable for training different machine learning models. The latter contains the code for training different machine learning models, hyperparameter tuning and making predictions. I have used 3 machine learning algorithms namely [Linear Regression](), [Random Forest Regressor](), [K-Nearest Neighbors]() Regressor and 1 deep learning neural network using tensorflow.
+There are two notebook files present in the project, Data_Preprocessing.ipynb and Model_creation.ipynb. The former contains the code for exploratory data analysis along with preprocessing the raw data so that it is suitable for training different machine learning models. The latter contains the code for training different machine learning models, hyperparameter tuning and making predictions. I have used 3 machine learning algorithms namely [Linear Regression](https://en.wikipedia.org/wiki/Linear_regression), [Random Forest Regressor](https://www.geeksforgeeks.org/random-forest-regression-in-python/), [K-Nearest Neighbors](https://bookdown.org/tpinto_home/Regression-and-Classification/k-nearest-neighbours-regression.html) Regressor and 1 deep learning neural network using tensorflow.
 
 ### Models
 
